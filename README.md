@@ -7,7 +7,9 @@ At the core of the website are interactive graphical windows, powered by WebGPU,
 The website combines the power of Rust, WebAssembly, and WebGPU to deliver a unique educational platform for computer graphics. Whether you're a beginner or an experienced developer, this project aims to make learning graphics programming more intuitive, interactive, and enjoyable.
 
 ![Home Page](./images/img0.png)
-*Home page*
+<p align="center">
+  This text will also be centered.
+</p>
 
 ![Lesson Page](./images/img1.png)
 *Section of Metaball Lesson*
