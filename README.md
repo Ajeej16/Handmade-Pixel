@@ -8,7 +8,8 @@ The website combines the power of Rust, WebAssembly, and WebGPU to deliver a uni
 
 ![Home Page](./images/img0.png)
 <p align="center">
-  This text will also be centered.
+  Home Page
+  
 </p>
 
 ![Lesson Page](./images/img1.png)
